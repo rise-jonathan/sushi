@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/japan-sushi/static/css/main.477e4187.css",
+    "main.js": "/japan-sushi/static/js/main.697057ec.js",
+    "static/media/sushi.jpg": "/japan-sushi/static/media/sushi.a2b4b921ab28b2b3f6c7.jpg",
+    "index.html": "/japan-sushi/index.html",
+    "main.477e4187.css.map": "/japan-sushi/static/css/main.477e4187.css.map",
+    "main.697057ec.js.map": "/japan-sushi/static/js/main.697057ec.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.477e4187.css",
+    "static/js/main.697057ec.js"
+  ]
+}
