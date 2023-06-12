@@ -29,7 +29,7 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "https://rise-jonathan.github.io/japan-sushi/",
+  "homepage": "https://rise-jonathan.github.io/sushi",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
